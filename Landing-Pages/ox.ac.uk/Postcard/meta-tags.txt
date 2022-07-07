@@ -1,15 +1,15 @@
-<meta name="author" content="Bastián González-Bustamante">
-<meta name="description" content="Bastián González-Bustamante. DPhil (PhD) Researcher in the Department of Politics and International Relations and St Hilda's College at the University of Oxford, United Kingdom. Instructor Professor in the Management and Public Policies Department at the Faculty of Administration and Economics at the Universidad de Santiago de Chile.">
+<meta name="author" content="Ralihe R. Villagrán">
+<meta name="description" content="Ralihe R. Villagrán. D.SC. (PhD) Researcher in the Department of Mathematics and Computer Science at the Eindhoven University of Technology.">
 
-<link rel="icon" type="image/png" href="img/favicon.png">
-<link rel="canonical" href="http://users.ox.ac.uk/~shil5311/">
+<link rel="icon" type="image/png" href="img/tue-logo-high.png">
+<link rel="canonical" href="https://research.tue.nl/en/persons/ralihe-villagran-olivas">
 
-  <meta property="twitter:site" content="@bastiangb">
-  <meta property="twitter:creator" content="@bastiangb"> 
-  <meta property="og:site_name" content="Bastián González-Bustamante">
-  <meta property="og:url" content="http://users.ox.ac.uk/~shil5311/">
-  <meta property="og:title" content="Bastián González-Bustamante">
-  <meta property="og:description" content="Bastián González-Bustamante. DPhil (PhD) Researcher in the Department of Politics and International Relations and St Hilda's College at the University of Oxford, United Kingdom. Instructor Professor in the Management and Public Policies Department at the Faculty of Administration and Economics at the Universidad de Santiago de Chile.">
-  <meta property="og:image" content="img/oxford-logo.png">
-  <meta property="twitter:image" content="img/oxford-logo.png">
+  <meta property="twitter:site" content="@RaLiHe">
+  <meta property="twitter:creator" content="@RaLiHe"> 
+  <meta property="og:site_name" content="Ralihe R. Villagrán">
+  <meta property="og:url" content="https://research.tue.nl/en/persons/ralihe-villagran-olivas">
+  <meta property="og:title" content="Ralihe R. Villagrán">
+  <meta property="og:description" content="Ralihe R. Villagrán. D.Sc. (PhD) Researcher in the Department of Mathematics and Computer Science at the Eindhoven University of Technology.">
+  <meta property="og:image" content="img/tue-logo-high.png">
+  <meta property="twitter:image" content="img/tue-logo-high.png">
   <meta property="og:locale" content="en-gb">
