@@ -1,7 +1,7 @@
 ## Settings
-title: Bastián González-Bustamante
-description: 'PRS DPhil in Politics, University of Oxford'
-url: https://bgonzalezbustamante.com
+title: Ralihe R. Villagrán
+description: 'Postdoctoral researcher in Mathematics, Eindhoven University of Technology'
+url: https://ralihemath.github.io
 baseurl: '/'
 encoding: UTF-8
 
@@ -9,10 +9,10 @@ google_analytics: 'UA-174550874-1'
 ## disqus_shortname: ''
 
 author:
-  name: 'Bastián González-Bustamante'
-  email: bastian.gonzalezbustamante@politics.ox.ac.uk
-  twitter_username: bastiangb
-  github_username:  bgonzalezbustamante
+  name: 'Ralihe R. Villagrán'
+  email: ralihemath@gmail.com
+  twitter_username: RaLiHe
+  github_username:  Ralihe
 
 defaults:
   -
