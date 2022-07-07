@@ -10,7 +10,7 @@ active: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Projects
+title: Data and Code
 subtitle: ''
 
 content:
@@ -26,13 +26,15 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Ongoing
-    tag: Ongoing Projects
-  - name: Stand-By
-    tag: Stand-By Projects
-  - name: Finished
-    tag: Finished Projects
-
+  - name: Data
+    tag: Data
+  - name: Demonstrations
+    tag: Demonstrations
+  - name: Resources
+    tag: Resources
+  - name: Scraping
+    tag: Scraping
+    
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
@@ -42,7 +44,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 1
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

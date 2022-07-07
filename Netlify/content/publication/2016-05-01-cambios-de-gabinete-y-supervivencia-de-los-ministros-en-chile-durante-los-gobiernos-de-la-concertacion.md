@@ -6,7 +6,7 @@ slug: cambios-de-gabinete-y-supervivencia-de-los-ministros-en-chile-durante-los-
 ## tags: []
 authors: ["bgonzalezbustamante", "aolivares"]
 doi: ''
-## publishDate: '2019-12-15T19:30:16Z'
+## publishDate: ''
 publication_types:
   - '1'
 publication: '*Colombia Internacional*, 87, 81-108'
@@ -23,30 +23,30 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  ## - icon: file-pdf
-    ## icon_pack: far
-    ## name: PDF
-    ## url: ''
-  - icon: open-access 
-    icon_pack: ai
+  - icon: file-pdf
+    icon_pack: far
     name: PDF
     url: 'https://revistas.uniandes.edu.co/doi/full/10.7440/colombiaint87.2016.04'
-  ## - icon: dataverse
+  - icon: doi
+    icon_pack: ai
+    name: DOI
+    url: 'https://doi.org/10.7440/colombiaint87.2016.04'
+  ## - icon: arxiv
     ## icon_pack: ai
-    ## name: Dataset
+    ## name: Preprint
     ## url: ''
   ## - icon: osf
     ## icon_pack: ai
     ## name: OSF-Project
     ## url: ''
-  ## - icon: arxiv
-    ## icon_pack: ai
-    ## name: Preprint
-    ## url: ''
-  - icon: doi
+  - icon: github
+    icon_pack: fab
+    name: Code
+    url: 'https://github.com/bgonzalezbustamante/chilean-ministers'
+  - icon: dataverse
     icon_pack: ai
-    name: DOI
-    url: 'https://doi.org/10.7440/colombiaint87.2016.04'
+    name: Dataset
+    url: 'https://doi.org/10.5281/zenodo.5744536'
 image:
   caption: ''
   focal_point: ''

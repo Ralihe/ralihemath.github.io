@@ -1,12 +1,12 @@
 ---
-title: 'Public-Private Circulation and the Revolving Door in the Chilean Executive Branch (2000–2014)'
+title: 'Public-Private Circulation and the Revolving Door in the Chilean Executive Branch (2000-2014)'
 date: '2019-09-05'
 slug: revolving-door-in-the-chilean-executive-branch
 ## categories: []
 ## tags: []
 authors: ["amaillet", "bgonzalezbustamante", "aolivares"]
 doi: ''
-## publishDate: '2019-12-15T17:50:39Z'
+## publishDate: ''
 publication_types:
   - '1'
 publication: '*Latin American Business Review, 20*(4), 367-387'
@@ -27,26 +27,22 @@ links:
     icon_pack: far
     name: PDF
     url: 'https://www.tandfonline.com/doi/full/10.1080/10978526.2019.1652099'
-  ## - icon: open-access 
+  - icon: doi
+    icon_pack: ai
+    name: DOI
+    url: 'https://doi.org/10.1080/10978526.2019.1652099'
+  ## - icon: arxiv
     ## icon_pack: ai
-    ## name: PDF
-    ## url: ''
-  ## - icon: dataverse
-    ## icon_pack: ai
-    ## name: Dataset
+    ## name: Preprint
     ## url: ''
   ## - icon: osf
     ## icon_pack: ai
     ## name: OSF-Project
     ## url: ''
-  ## - icon: arxiv
+  ## - icon: dataverse
     ## icon_pack: ai
-    ## name: Preprint
+    ## name: Dataset
     ## url: ''
-  - icon: doi
-    icon_pack: ai
-    name: DOI
-    url: 'https://doi.org/10.1080/10978526.2019.1652099'
 image:
   caption: ''
   focal_point: ''

@@ -6,7 +6,7 @@ slug: la-elite-politica-gubernamental-en-chile
 ## tags: []
 authors: ["bgonzalezbustamante", "aolivares"]
 doi: ''
-## publishDate: '2019-12-16T11:20:28Z'
+## publishDate: ''
 publication_types:
   - '4'
 publication: 'In A. Codato and F. Espinoza (eds.), *Las Élites en las Américas: Diferentes Perspectivas*. Curitiba: Editora Universidade Federal do Paraná'
@@ -23,30 +23,30 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  ## - icon: file-pdf
-    ## icon_pack: far
-    ## name: PDF
-    ## url: ''
-  - icon: open-access 
-    icon_pack: ai
+  - icon: file-pdf
+    icon_pack: far
     name: PDF
     url: 'https://www.researchgate.net/publication/325699783_Elites_en_las_Americas_diferentes_perspectivas_Elites_in_the_Americas_Different_Perspectives'
-  ## - icon: dataverse
+  ## - icon: doi
     ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
+    ## name: DOI
     ## url: ''
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint
     ## url: ''
-  ## - icon: doi
+  ## - icon: osf
     ## icon_pack: ai
-    ## name: DOI
+    ## name: OSF-Project
     ## url: ''
+  - icon: github
+    icon_pack: fab
+    name: Code
+    url: 'https://github.com/bgonzalezbustamante/chilean-ministers'
+  - icon: dataverse
+    icon_pack: ai
+    name: Dataset
+    url: 'https://doi.org/10.5281/zenodo.5744536'
 image:
   caption: ''
   focal_point: ''

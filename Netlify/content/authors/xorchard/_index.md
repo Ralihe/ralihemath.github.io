@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Ximena Orchard
-weight: 6
+weight: 12
 shortname: Orchard, X.
 
 # Username (this should match the folder name)
@@ -17,10 +17,10 @@ role: Head of Department
 # Organizations/Affiliations
 organizations:
 - name: Universidad de Alberto Hurtado
-  url: "http://periodismo.uahurtado.cl/"
+  url: "https://www.uahurtado.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Head in the Journalism Department at the Universidad Alberto Hurtado.
+bio: Head of the Journalism Department at the Universidad Alberto Hurtado, Chile.
 
 interests:
 - Political communication
@@ -36,15 +36,18 @@ social:
 - icon: university
   icon_pack: fas
   link: http://periodismo.uahurtado.cl/team/ximena-orchard/
-## - icon: orcid
-  ## icon_pack: fab
-  ## link: 
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-8687-1098
+- icon: github
+  icon_pack: fab
+  link: https://github.com/XimenaOrch
 ## - icon: osf
   ## icon_pack: ai
   ## link: https://
 ## - icon: google-scholar
   ## icon_pack: ai
-  ## link: 
+  ## link:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Ximena_Orchard2
@@ -66,6 +69,6 @@ user_groups:
 
 \
 \
-Director \
+Head \
 Journalism Department \
-Universidad Alberto Hurtado
+Universidad Alberto Hurtado, Chile

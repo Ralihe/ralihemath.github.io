@@ -1,12 +1,12 @@
 ---
-title: 'Élites políticas en el poder legislativo chileno: la Cámara de Diputados (1990-2014)'
+title: 'Élites políticas en el poder legislativo chileno: La Cámara de Diputados (1990-2014)'
 date: '2016-07-19'
 slug: elites-politicas-en-el-poder-legislativo-chileno-la-camara-de-diputados
 ## categories: []
 ## tags: []
 authors: ["bgonzalezbustamante", "ccisternas"]
 doi: ''
-## publishDate: '2019-12-15T21:01:24Z'
+## publishDate: ''
 publication_types:
   - '5'
 publication: '*Política, Revista de Ciencia Política, 54*(1), 19-52'
@@ -23,29 +23,25 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  ## - icon: file-pdf
-    ## icon_pack: far
-    ## name: PDF
-    ## url: ''
-  - icon: open-access 
-    icon_pack: ai
+  - icon: file-pdf
+    icon_pack: far
     name: PDF
     url: 'https://revistapolitica.uchile.cl/index.php/RP/article/view/42691'
-  ## - icon: dataverse
+  ## - icon: doi
     ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
+    ## name: DOI
     ## url: ''
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint
     ## url: ''
-  ## - icon: doi
+  ## - icon: osf
     ## icon_pack: ai
-    ## name: DOI
+    ## name: OSF-Project
+    ## url: ''
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
     ## url: ''
 image:
   caption: ''

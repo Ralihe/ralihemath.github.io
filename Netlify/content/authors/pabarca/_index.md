@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Pedro Abarca
-weight: 19
+weight: 24
 shortname: Abarca, P.
 
 # Username (this should match the folder name)
@@ -20,15 +20,15 @@ organizations:
   url: "http://www.inap.uchile.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Assistant in the Institute for Public Affairs at the Universidad de Chile.
+bio: Research Assistant in the Institute of Public Affairs at the Universidad de Chile.
 
 interests:
-## - 
-## - 
-## - 
-## - 
-## - 
-## - 
+## -
+## -
+## -
+## -
+## -
+## -
 
 # Social/Academic Networking
 social:
@@ -66,5 +66,5 @@ user_groups:
 \
 \
 Research Assistant \
-Institute for Public Affairs \
+Institute of Public Affairs \
 Universidad de Chile

@@ -1,5 +1,5 @@
 ---
-title: 'Agenda política, periodismo y medios digitales en Chile. Notas de investigación sobre pluralismo informativo'
+title: 'Agenda política, periodismo y medios digitales en Chile: Notas de investigación sobre pluralismo informativo'
 date: '2018-08-15'
 slug: agenda-politica-periodismo-y-medios-digitales-en-chile
 ## categories: []
@@ -23,29 +23,25 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  ## - icon: file-pdf
-    ## icon_pack: far
-    ## name: PDF
-    ## url: ''
-  - icon: open-access 
-    icon_pack: ai
+  - icon: file-pdf
+    icon_pack: far
     name: PDF
     url: 'http://revistas.ufro.cl/ojs/index.php/perspectivas/article/view/1146'
-  ## - icon: dataverse
+  ## - icon: doi
     ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
+    ## name: DOI
     ## url: ''
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint
     ## url: ''
-  ## - icon: doi
+  ## - icon: osf
     ## icon_pack: ai
-    ## name: DOI
+    ## name: OSF-Project
+    ## url: ''
+  ## - icon: dataverse
+    ## icon_pack: ai
+    ## name: Dataset
     ## url: ''
 image:
   caption: ''

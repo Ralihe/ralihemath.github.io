@@ -6,7 +6,7 @@ slug: internet-uso-de-redes-sociales-digitales-y-participacion-en-el-cono-sur
 ## tags: []
 authors: ["bgonzalezbustamante"]
 doi: ''
-## publishDate: '2019-12-16T11:13:17Z'
+## publishDate: ''
 publication_types:
   - '4'
 publication: 'In P. Cottet (ed.), *Opinión Pública Contemporánea: Otras Posibilidades de Comprensión e Investigación*. Santiago: Social-Ediciones'
@@ -22,30 +22,26 @@ url_project: ~
 url_slides: ~
 url_source: ~
 url_video: ~
-## links:
-  ## - icon: file-pdf
-    ## icon_pack: far
-    ## name: PDF
-    ## url: ''
-  ## - icon: open-access 
+links:
+  - icon: file-pdf
+    icon_pack: far
+    name: PDF
+    url: 'https://libros.uchile.cl/1208'
+  - icon: doi
+    icon_pack: ai
+    name: DOI
+    url: 'https://doi.org/10.34720/2nd0-8t73'
+  ## - icon: arxiv
     ## icon_pack: ai
-    ## name: PDF
-    ## url: ''
-  ## - icon: dataverse
-    ## icon_pack: ai
-    ## name: Dataset
+    ## name: Preprint
     ## url: ''
   ## - icon: osf
     ## icon_pack: ai
     ## name: OSF-Project
     ## url: ''
-  ## - icon: arxiv
+  ## - icon: dataverse
     ## icon_pack: ai
-    ## name: Preprint
-    ## url: ''
-  ## - icon: doi
-    ## icon_pack: ai
-    ## name: DOI
+    ## name: Dataset
     ## url: ''
 image:
   caption: ''

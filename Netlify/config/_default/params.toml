@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "University of Oxford"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Bastián González-Bustamante. DPhil (PhD) Researcher in the Department of Politics and International Relations and St Hilda's College at the University of Oxford, United Kingdom. Instructor Professor in the Management and Public Policies Department at the Faculty of Administration and Economics at the Universidad de Santiago de Chile."
+description = "Bastián González-Bustamante. DPhil (PhD) Researcher in the Department of Politics and International Relations and St Hilda's College at the University of Oxford, United Kingdom. Instructor Professor in the Management and Public Policies Department at the Faculty of Administration and Economics at the Universidad de Santiago de Chile (USACH)."
 
 ############################
 ## Site Features
@@ -147,7 +147,7 @@ address_format = "en-gb"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "l", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
+main_menu = {enable = true, align = "l", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
@@ -211,7 +211,9 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 0
+  ## engine = 0 (deprecated)
+  ## Version 5.0 Beta 3 (February 2021)
+  provider = ""
 
   # Which page types are commentable?
   commentable = {page = false, post = false, docs = false, project = false, publication = false, talk = false}
@@ -234,7 +236,9 @@ plugins_js  = []
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  ## engine = 1 (deprecated)
+  ## Version 5.0 Beta 3 (February 2021)
+  provider = "wowchemy"
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
@@ -262,7 +266,9 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  ## engine = 2 (deprecated)
+  ## Version 5.0 Beta 3 (February 2021)
+  provider = "mapnik"
   api_key = ""
   zoom = 15
 
@@ -285,3 +291,9 @@ plugins_js  = []
 ############################
 [icon.pack]
   ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+
+############################
+## Breadcrumbs (Version 5.0 Beta 2, January 2021)
+############################
+[breadcrumb]
+  page_types = {book = true}

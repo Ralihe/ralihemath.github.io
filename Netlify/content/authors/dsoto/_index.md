@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Diego Soto
-weight: 17
+weight: 22
 shortname: Soto, D.
 
 # Username (this should match the folder name)
@@ -23,18 +23,18 @@ organizations:
 bio: PhD Candidate in International History at the Graduate Institute Geneva, Switzerland.
 
 interests:
-## - 
-## - 
-## - 
-## - 
-## - 
-## - 
+## -
+## -
+## -
+## -
+## -
+## -
 
 # Social/Academic Networking
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:dh.sotos@gmail.com
+  link: mailto:diego.soto@graduateinstitute.ch
 ## - icon: orcid
   ## icon_pack: fab
   ## link: http://
@@ -67,4 +67,3 @@ user_groups:
 \
 PhD Candidate in International History \
 Graduate Institute Geneva, Switzerland
-

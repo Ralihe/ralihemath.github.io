@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Rodrigo Cuevas
-weight: 28
+weight: 33
 shortname: Cuevas, R.
 
 # Username (this should match the folder name)
@@ -20,7 +20,7 @@ organizations:
   url: "http://www.inap.uchile.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lecturer in the Institute for Public Affairs at the Universidad de Chile.
+bio: Lecturer in the Institute of Public Affairs at the Universidad de Chile.
 
 interests:
 - International politics
@@ -34,10 +34,16 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:cuevas.ossandon@gmail.com
-## - icon: orcid
-  ## icon_pack: fab
-  ## link: http://
+  link: mailto:rodrigocuevas@uchile.cl
+- icon: university
+  icon_pack: fas
+  link: https://training-datalab.com/
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-5980-1908
+- icon: github
+  icon_pack: fab
+  link: https://github.com/rodrigocuevasossandon
 ## - icon: osf
   ## icon_pack: ai
   ## link: https://
@@ -66,5 +72,5 @@ user_groups:
 \
 \
 Lecturer \
-Institute for Public Affairs \
+Institute of Public Affairs \
 Universidad de Chile

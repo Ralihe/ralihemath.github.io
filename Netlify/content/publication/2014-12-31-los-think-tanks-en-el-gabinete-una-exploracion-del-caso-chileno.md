@@ -1,12 +1,12 @@
 ---
-title: 'Los think tanks en el gabinete: una exploración del caso chileno (2006-2014)'
+title: 'Los think tanks en el gabinete: Una exploración del caso chileno (2006-2014)'
 date: '2014-12-31'
 slug: los-think-tanks-en-el-gabinete-una-exploracion-del-caso-chileno
 ## categories: []
 ## tags: []
 authors: ["aolivares", "bgonzalezbustamante", "jmeneses", "mrodriguez"]
 doi: ''
-## publishDate: '2019-12-15T22:29:32Z'
+## publishDate: ''
 publication_types:
   - '5'
 publication: '*Revista de Sociología*, 29, 37-54'
@@ -23,30 +23,26 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  ## - icon: file-pdf
-    ## icon_pack: far
-    ## name: PDF
-    ## url: ''
-  - icon: open-access 
-    icon_pack: ai
+  - icon: file-pdf
+    icon_pack: far
     name: PDF
     url: 'https://revistadesociologia.uchile.cl/index.php/RDS/article/view/36177'
-  ## - icon: dataverse
+  - icon: doi
+    icon_pack: ai
+    name: DOI
+    url: 'http://doi.org/10.5354/0719-529X.2014.36177'
+  ## - icon: arxiv
     ## icon_pack: ai
-    ## name: Dataset
+    ## name: Preprint
     ## url: ''
   ## - icon: osf
     ## icon_pack: ai
     ## name: OSF-Project
     ## url: ''
-  ## - icon: arxiv
+  ## - icon: dataverse
     ## icon_pack: ai
-    ## name: Preprint
+    ## name: Dataset
     ## url: ''
-  - icon: doi
-    icon_pack: ai
-    name: DOI
-    url: 'http://doi.org/10.5354/0719-529X.2014.36177'
 image:
   caption: ''
   focal_point: ''

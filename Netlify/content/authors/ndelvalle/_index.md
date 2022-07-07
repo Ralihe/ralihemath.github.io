@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Nicolás Del Valle
-weight: 13
+weight: 18
 shortname: Del Valle, N.
 
 # Username (this should match the folder name)
@@ -23,21 +23,21 @@ organizations:
 bio: PhD in Philosophy at Leiden University, Netherlands.
 
 interests:
-## - 
-## - 
-## - 
-## - 
-## - 
-## - 
+## -
+## -
+## -
+## -
+## -
+## -
 
 # Social/Academic Networking
 social:
 - icon: envelope
   icon_pack: fas
   link: mailto:n.d.del.valle.orellana@hum.leidenuniv.nl
-## - icon: orcid
-  ## icon_pack: fab
-  ## link: http://
+- icon: orcid
+  icon_pack: fab
+  link: http://orcid.org/0000-0002-7083-7928
 ## - icon: osf
   ## icon_pack: ai
   ## link: https://

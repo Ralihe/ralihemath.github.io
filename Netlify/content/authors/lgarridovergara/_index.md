@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Luis Garrido-Vergara
-weight: 18
+weight: 23
 shortname: Garrido-Vergara, L.
 
 # Username (this should match the folder name)
@@ -16,16 +16,16 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de Santiago
-  url: "https://fae.usach.cl/"
+- name: Universidad de Chile
+  url: "http://www.inap.uchile.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor in the Department of Public Administration and Policy at the Universidad de Santiago de Chile.
+bio: Assistant Professor in the Institute of Public Affairs at the Universidad de Chile.
 
 interests:
 ## - Latin American Politics
 ## - Elites and Political Elites
-## - Local Governments 
+## - Local Governments
 ## - Social Networks
 ## - Public Policies
 ## - Sociological Theory
@@ -34,10 +34,13 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:luis.garrido.v@usach.cl
+  link: mailto:luis.garrido.v@iap.uchile.cl
 ## - icon: orcid
   ## icon_pack: fab
   ## link: http://
+- icon: github
+  icon_pack: fab
+  link: https://github.com/LGarrido-Vergara
 ## - icon: osf
   ## icon_pack: ai
   ## link: https://
@@ -66,6 +69,5 @@ user_groups:
 \
 \
 Assistant Professor \
-Department of Public Administration and Policy \
-Faculty of Economics and Management \
-Universidad de Santiago de Chile
+Institute of Public Affairs \
+Universidad de Chile

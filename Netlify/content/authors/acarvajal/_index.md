@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Ariane Carvajal
-weight: 9
+weight: 6
 shortname: Carvajal, A.
 
 # Username (this should match the folder name)
@@ -20,15 +20,15 @@ organizations:
   url: "https://fae.usach.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Assistant in the Department of Public Administration and Policy at the Universidad de Santiago de Chile.
+bio: Research Assistant in the Management and Public Policies Department at the Faculty of Administration and Economics at the Universidad de Santiago de Chile (USACH).
 
 interests:
-## - 
-## - 
-## - 
-## - 
-## - 
-## - 
+## -
+## -
+## -
+## -
+## -
+## -
 
 # Social/Academic Networking
 social:
@@ -66,6 +66,6 @@ user_groups:
 \
 \
 Research Assistant \
-Department of Public Administration and Policy \
-Faculty of Economics and Management \
-Universidad de Santiago de Chile
+Management and Public Policies Department \
+Faculty of Administration and Economics \
+Universidad de Santiago de Chile (USACH)

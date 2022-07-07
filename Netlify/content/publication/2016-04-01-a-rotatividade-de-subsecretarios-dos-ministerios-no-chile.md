@@ -6,7 +6,7 @@ slug: a-rotatividade-de-subsecretarios-dos-ministerios-no-chile
 ## tags: []
 authors: ["bgonzalezbustamante", "aolivares"]
 doi: ''
-## publishDate: '2019-12-15T23:15:43Z'
+## publishDate: ''
 publication_types:
   - '6'
 publication: '*Observatório de elites políticas e sociais do Brasil. NUSP/UFPR, 3*(5), 1-19'
@@ -23,30 +23,30 @@ url_slides: ~
 url_source: ~
 url_video: ~
 links:
-  ## - icon: file-pdf
-    ## icon_pack: far
-    ## name: PDF
-    ## url: ''
-  - icon: open-access 
-    icon_pack: ai
+  - icon: file-pdf
+    icon_pack: far
     name: PDF
     url: 'https://www.researchgate.net/publication/321993740_A_rotatividade_de_subsecretarios_dos_ministerios_no_Chile_1990-2014'
-  ## - icon: dataverse
+  ## - icon: doi
     ## icon_pack: ai
-    ## name: Dataset
-    ## url: ''
-  ## - icon: osf
-    ## icon_pack: ai
-    ## name: OSF-Project
+    ## name: DOI
     ## url: ''
   ## - icon: arxiv
     ## icon_pack: ai
     ## name: Preprint
     ## url: ''
-  ## - icon: doi
+  ## - icon: osf
     ## icon_pack: ai
-    ## name: DOI
+    ## name: OSF-Project
     ## url: ''
+  - icon: github
+    icon_pack: fab
+    name: Code
+    url: 'https://github.com/bgonzalezbustamante/chilean-undersecretaries'
+  - icon: dataverse
+    icon_pack: ai
+    name: Dataset
+    url: 'https://doi.org/10.5281/zenodo.5715384'
 image:
   caption: ''
   focal_point: ''

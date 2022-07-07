@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Elinor Luco
-weight: 29
+weight: 34
 shortname: Luco, E.
 
 # Username (this should match the folder name)
@@ -12,23 +12,23 @@ authors:
 superuser: false
 
 # Role/position
-role: Editorial Assistant
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Tufte Working Papers
-  url: "https://tuftepapers.com/"
+- name: Universidad de Santiago
+  url: "https://fae.usach.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Editorial Assistant in the Tufte Working Papers (ISSN 2735-6043).
+bio: Research Assistant in the Management and Public Policies Department at the Faculty of Administration and Economics at the Universidad de Santiago de Chile (USACH).
 
 interests:
-## - 
-## - 
-## - 
-## - 
-## - 
-## - 
+## -
+## -
+## -
+## -
+## -
+## -
 
 # Social/Academic Networking
 social:
@@ -37,16 +37,16 @@ social:
   link: mailto:elinor.luco@usach.cl
 - icon: university
   icon_pack: fas
-  link: https://tuftepapers.com/
-## - icon: orcid
-  ## icon_pack: fab
-  ## link: http://
-## - icon: osf
-  ## icon_pack: ai
-  ## link: https://
+  link: https://training-datalab.com/
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-3370-4322
 - icon: github
   icon_pack: fab
   link: https://github.com/elinorlucoq
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/fw65k/
 ## - icon: google-scholar
   ## icon_pack: ai
   ## link: https://
@@ -71,5 +71,7 @@ user_groups:
 
 \
 \
-Editorial Assistant \
-Tufte Working Papers (ISSN 2735-6043)
+Research Assistant \
+Management and Public Policies Department \
+Faculty of Administration and Economics \
+Universidad de Santiago de Chile (USACH)

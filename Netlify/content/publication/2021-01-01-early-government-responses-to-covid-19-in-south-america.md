@@ -1,12 +1,12 @@
 ---
-title: 'Early Government Responses to COVID-19 in South America'
+title: 'Evolution and Early Government Responses to COVID-19 in South America'
 date: '2021-01-01'
 slug: early-government-responses-to-covid-19-in-south-america
 ## categories: []
 ## tags: []
 authors: ["bgonzalezbustamante"]
 doi: ''
-## publishDate: '2021-01-01'
+## publishDate: ''
 publication_types:
   - '0'
 publication: '*World Development, 137*, 105180'
@@ -27,10 +27,6 @@ links:
     icon_pack: far
     name: PDF
     url: 'https://www.sciencedirect.com/science/article/pii/S0305750X20303077'
-  ## - icon: open-access 
-    ## icon_pack: ai
-    ## name: PDF
-    ## url: ''
   - icon: doi
     icon_pack: ai
     name: DOI
@@ -51,10 +47,6 @@ links:
     ## icon_pack: ai
     ## name: Dataset
     ## url: ''
-  - icon: users
-    icon_pack: fas
-    name: CRediT
-    url: 'project/covid-19-south-america'
 image:
   caption: ''
   focal_point: ''
